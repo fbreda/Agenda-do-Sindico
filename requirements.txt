@@ -1,0 +1,11 @@
+Django==4.0.4
+django-autoslug==1.9.8
+django-debug-toolbar==3.4.0
+factory-boy==3.2.1
+gunicorn==20.1.0
+ipython==8.3.0
+mypy==0.950
+Pillow==9.1.1
+psycopg2==2.9.3
+pytest==7.1.2
+pytest-django==4.5.2
